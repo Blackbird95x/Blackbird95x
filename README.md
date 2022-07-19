@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blackbird95x
+- 👋 Hi, I’m @Blackbird95x/Dennis
 - 👀 I’m interested in AI and Deep Learning
 - 🌱 I’m currently learning AI with NVIDIA Jetson Nano
 - 📫 Ask for my mail
